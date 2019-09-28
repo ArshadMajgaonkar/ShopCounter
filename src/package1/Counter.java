@@ -332,6 +332,7 @@ public class Counter extends javax.swing.JFrame {
 
     private void resetActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_resetActionPerformed
         // TODO add your handling code here:
+        //i am new change
         name.setText("");
         area.setText("");
         apple.setText("0");
